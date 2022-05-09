@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoices-archive>
+	<invoice invoice-number="657321">
+		<company>
+			<name>Kleintier Meier GmbH</name>
+			<address>
+				<street-name>Meierring 3</street-name>
+				<post-code>81828</post-code>
+				<city>Machthausen</city>
+			</address>
+			<contact>
+			<telephone-number>0777/987987</telephone-number>
+			<fax-number>077/987789</fax-number>
+			<e-mail>klein.meier@tiere.de</e-mail>
+			</contact>
+		</company>
+		<tax-number>88 123/8282 2</tax-number>
+		<date>
+		2017-01-15
+		</date>
+		<sum>
+			<brutto>962,22</brutto>
+		</sum>
+	</invoice>
+	
+</invoices-archive>
